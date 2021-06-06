@@ -8,6 +8,8 @@ namespace ProductScenario
 {
    public class product
     {
-
+        public string Id { get; set; }
+        
+        public decimal price { get; set; }
     }
 }
