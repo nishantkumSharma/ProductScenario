@@ -12,7 +12,7 @@ namespace ProductScenario
         {
             List<product> products = new List<product>();
 
-            Console.WriteLine("total numnber of order");
+            Console.WriteLine("total numnber of orders");
             int a = Convert.ToInt32(Console.ReadLine());
             for (int i = 0; i < a; i++)
             {
